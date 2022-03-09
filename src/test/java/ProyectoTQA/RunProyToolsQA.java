@@ -1,4 +1,4 @@
-//PABLO ROJAS
+//PABLO C .ROJAS ROMERO
 package ProyectoTQA;
 
 import java.io.File;
